@@ -1,0 +1,13 @@
+{
+  "name": "nutrigo-landing",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Landing page NutriGo S.A.S. — HTML, CSS y JavaScript",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "engines": {
+    "node": ">=18.11"
+  }
+}
